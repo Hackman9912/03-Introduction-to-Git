@@ -97,7 +97,8 @@ Now that we've gone over the basics for git you may be overwhelmed. That is ok, 
 > git checkout &lt;your branch name>  
 > git branch  
 
-**> git status  
+
+> **git status  
 > git add .  
 > git commit -m "changed files from my branch"**
 ### **We haven't affected our local master branch or our remote repository**
